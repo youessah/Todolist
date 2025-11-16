@@ -1,0 +1,5 @@
+com.example.todolist
+com.example.todolist.controller
+com.example.todolist.entity
+com.example.todolist.repository
+com.example.todolist.service
